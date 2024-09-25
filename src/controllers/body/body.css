@@ -1,0 +1,30 @@
+.body-container {
+    background-image: url('https://res.cloudinary.com/muni/image/upload/v1726489602/modern-smartphone-with-live-abstract-wallpaper-coming-out-screen_vpdsu3.jpg');
+    background-size: cover; 
+    height: 100vh; 
+  }
+
+.footer-container {
+  background-color: #333; 
+  color: #fff; 
+  padding: 20px;
+  text-align: center;
+  
+  bottom: 0;
+  width: 100%;
+}
+
+.contact-info {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-info h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.contact-info p {
+  margin: 5px 0;
+  font-size: 16px;
+}

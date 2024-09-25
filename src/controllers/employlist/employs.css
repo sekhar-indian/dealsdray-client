@@ -1,0 +1,13 @@
+.table-container{
+    background-color: white;
+}
+
+.button-table-container{
+    margin-top: 10px;
+   
+    border-radius: 10px;
+    font-family: roboto;
+    font-size: larger;
+    color: white;
+    background-color: #0f3937;
+}

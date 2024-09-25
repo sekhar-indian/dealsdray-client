@@ -1,0 +1,81 @@
+.login-container{
+    display: flex;
+}
+.login-left-container{
+    background-color: #5d9c89;
+    height: 100vh;
+    width: 50%;
+}
+.login-right-container{
+    background-image: url('https://res.cloudinary.com/muni/image/upload/v1726495382/moder_beeixn.jpg');
+    height: 100vh;
+    width: 50%;
+    background-size:cover;
+}
+.login-form-container{
+    background-color: white;
+    width: 70%;
+    height: 80%;
+    margin: 10%;
+    border-radius: 25px;
+}
+.login-form-heading{
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: roboto;
+    color:#0f3937;
+}
+.login-from-label{
+    margin: 4%;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: roboto;
+}
+.login-from-input-item{
+   margin: 4%;
+   width: 85%;
+   height: 40px;
+    border-radius: 25px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: roboto;
+    padding-left: 15px;
+    
+}
+.login-from-button-item{
+    margin: 4%;
+    margin-top: 15%;
+    text-align: center;
+    width: 85%;
+    background-color: #0f3937;
+    color:white;
+    height: 40px;
+    border-radius: 25px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: roboto;
+}
+.login-right-form-heading{
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: roboto;
+    color:white;
+}
+.login-right-form-para{
+    color:rgb(242, 242, 242);
+    background-color:#051a19 ;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: roboto;
+    font-size: x-large;
+    
+}
